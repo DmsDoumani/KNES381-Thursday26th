@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head><centre> WELCOME WORLD </centre></head>
-<body>
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-</body>
-</html>
-jbjb
+<p style="text-align:center;">WELCOME TO THE WORLD ROCKSTAR.</p>
