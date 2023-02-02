@@ -1,1 +1,1 @@
-<h1> Header </h1> <centre>
+<h1> <centre> Header </centre> </h1> 
