@@ -1,1 +1,10 @@
-<h1><centre>Header</centre></h1> 
+<!DOCTYPE html>
+<html>
+<head>
+  <title><centre>WELCOME WORLD</centre></title>
+</head>
+<body>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
