@@ -3,7 +3,7 @@
 <p align="right"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg" alt="Image">
 </p>
-Tigers love the color Orange...
+Alien Cats love the color Orange...
 They also love H<sub>2</sub>O because they are hydro homies. 
 
 
