@@ -4,7 +4,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg" alt="Image">
 </p>
 
-$${\color{orange}They \space \color{orange}Love \space \color{orange}the \space \color{orange}Color \space \color{orange}Orange }$$
+${\color{orange}They \space \color{orange}Love \space \color{orange}the \space \color{orange}Color \space \color{orange}Orange. }$
+
 They also love H<sub>2</sub>O because they are hydro homies. They have a magnificent VO<sup>.</sup><sub>2max</sub> of 2L/kg/min. Don't quote me on this number.
 
 
