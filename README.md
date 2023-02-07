@@ -6,7 +6,7 @@
 
 ${\color{orange}They \space \color{orange}Love \space \color{orange}the \space \color{orange}Color \space \color{orange}Orange. }$
 
-They also love H<sub>2</sub>O because they are hydro homies. They have a magnificent V<span>O&#x0307;</span> <sub>2max</sub> of 2L/kg/min. Don't quote me on this number.
+They also love H<sub>2</sub>O because they are hydro homies. They have a magnificent <span>V&#x0307;O </span> <sub>2max</sub> of 2L/kg/min. Don't quote me on this number.
 
 
 
