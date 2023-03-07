@@ -1,4 +1,4 @@
-#Introduction on how to play the game 
+#Introduction on how to play the game (FIRST CHANGE) 
 print("Welcome to the intense game of tic-tac-toe")
 print("Game Rules: When you are assigned your player number and letter, each player gets a turn in plugging in row and column numbers to place your X or O in the desired position.")
 print("May the best player win")
