@@ -35,7 +35,7 @@ def check_draw(board):
 
 def play_game():
     board = create_board() # Called in the mentioned function
-    # (Second Change) Defined a player when the game starts and attributed a letter to said player
+    # (SECOND CHANGE) Defined a player when the game starts and attributed a letter to said player
     player1 = "X" # Player 1 is X
     player2 = "O" # Player 2 is O
     current_player = player1 # Player 1 starts
