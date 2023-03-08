@@ -49,7 +49,7 @@ def play_game():
             
         while True: 
             try:
-                print(f"{'Player 1 (which is X)'}" if current_player == player1 else f"{'Player 2 (which is O)'}", "turn") # Printing the defiend player names (runs the second change)
+                print(f"{'Player 1 (which is X)'}" if current_player == player1 else f"{'Player 2 (which is O)'}", "turn") # Printing the defiend player names 
                 
                 row = int(input("Enter row (0-2): "))
                 col = int(input("Enter column (0-2): "))  
